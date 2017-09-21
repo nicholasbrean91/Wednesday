@@ -1,4 +1,6 @@
-# Created by: Mr. Coxall
+#Edited By: Nicholas Brean
+#Date: September 20 2017
+#Created by: Mr. Coxall
 # Created on: Sep 2017
 # Created for: ICS3U
 # This program is the first file in a multi-scene game template
